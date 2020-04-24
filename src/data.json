@@ -1,0 +1,22 @@
+[
+    {
+        "vegetable": "Onion",
+        "cost": 20
+    },
+    {
+        "vegetable": "Capcicumm",
+        "cost": 35
+    },
+    {
+        "vegetable": "Potato",
+        "cost": 45
+    },
+    {
+        "vegetable": "Tomato",
+        "cost": 25
+    },
+    {
+        "vegetable": "Cabbage",
+        "cost": 75
+    }
+]
